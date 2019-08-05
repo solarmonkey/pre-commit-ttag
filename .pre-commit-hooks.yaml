@@ -1,0 +1,8 @@
+- id: ttag
+  name: ttag
+  entry: ttag
+  language: node
+  'types': [javascript]
+  args: []
+  require_serial: false
+  additional_dependencies: ["ttag-cli@1.7.19"]
